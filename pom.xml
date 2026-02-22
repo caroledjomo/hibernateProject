@@ -22,11 +22,8 @@
         </configuration>
       </plugin>
     </plugins>
-  </build>
-  
-  
-  <packaging>war</packaging>
-  
+  </build>  
+  <packaging>war</packaging> 
   <dependencies>
   <dependency>
     <groupId>javax.persistence</groupId>
