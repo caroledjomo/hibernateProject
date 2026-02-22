@@ -1,7 +1,7 @@
 # hibernateProject
 
 ## Beschreibung
-Dieses Projekt wurde mit GitHub Codespaces erstellt.
+Dieses Projekt ist eine Java-Anwendung, die mit GitHub Codespaces entwickelt wird.
 
 ## Installation
 Anleitung zur Installation folgt.
