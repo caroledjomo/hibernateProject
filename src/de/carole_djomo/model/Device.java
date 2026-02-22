@@ -18,6 +18,7 @@ public class Device {
 
     /**
      * Der Primary Key.
+     *
      */
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
