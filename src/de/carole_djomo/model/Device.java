@@ -1,6 +1,7 @@
+package de.carole_djomo.model;
 import javax.persistence.*;
 
-package de.carole_djomo.model;
+
 
 
 @Entity
